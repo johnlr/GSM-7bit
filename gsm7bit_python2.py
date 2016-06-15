@@ -1,6 +1,6 @@
 # -*- coding: utf8 -*- 
 gsm = (u"@£$¥èéùìòÇ\nØø\rÅåΔ_ΦΓΛΩΠΨΣΘΞ\x1bÆæßÉ !\"#¤%&'()*+,-./0123456789:;<=>"
-       u"?¡ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÑÜ`¿abcdefghijklmnopqrstuvwxyzäöñüà")
+       u"?¡ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÑÜ§¿abcdefghijklmnopqrstuvwxyzäöñüà")
 ext = (u"````````````````````^```````````````````{}`````\\````````````[~]`"
        u"|````````````````````````````````````€``````````````````````````")
 
